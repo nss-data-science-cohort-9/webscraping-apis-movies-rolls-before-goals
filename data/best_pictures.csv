@@ -1,0 +1,612 @@
+,Winner,Year,Film Title
+0,Yes,1928,Wings
+1,No,1928,7th Heaven
+2,No,1928,The Racket
+3,Yes,1929,The Broadway Melody
+4,No,1929,Alibi
+5,No,1929,The Hollywood Revue
+6,No,1929,In Old Arizona
+7,No,1929,The Patriot
+8,Yes,1930,All Quiet on the Western Front
+9,No,1930,The Big House
+10,No,1930,Disraeli
+11,No,1930,The Divorcee
+12,No,1930,The Love Parade
+13,Yes,1931,Cimarron
+14,No,1931,East Lynne
+15,No,1931,The Front Page
+16,No,1931,Skippy
+17,No,1931,Trader Horn
+18,Yes,1932,Grand Hotel
+19,No,1932,Arrowsmith
+20,No,1932,Bad Girl
+21,No,1932,The Champ
+22,No,1932,Five Star Final
+23,No,1932,One Hour with You
+24,No,1932,Shanghai Express
+25,No,1932,The Smiling Lieutenant
+26,Yes,1933,Cavalcade
+27,No,1933,42nd Street
+28,No,1933,A Farewell to Arms
+29,No,1933,I Am a Fugitive from a Chain Gang
+30,No,1933,Lady for a Day
+31,No,1933,Little Women
+32,No,1933,The Private Life of Henry VIII
+33,No,1933,She Done Him Wrong
+34,No,1933,Smilin' Through
+35,No,1933,State Fair
+36,Yes,1934,It Happened One Night
+37,No,1934,The Barretts of Wimpole Street
+38,No,1934,Cleopatra
+39,No,1934,Flirtation Walk
+40,No,1934,The Gay Divorcee
+41,No,1934,Here Comes the Navy
+42,No,1934,The House of Rothschild
+43,No,1934,Imitation of Life
+44,No,1934,One Night of Love
+45,No,1934,The Thin Man
+46,No,1934,Viva Villa!
+47,No,1934,The White Parade
+48,Yes,1935,Mutiny on the Bounty
+49,No,1935,Alice Adams
+50,No,1935,Broadway Melody of 1936
+51,No,1935,Captain Blood
+52,No,1935,David Copperfield
+53,No,1935,The Informer
+54,No,1935,The Lives of a Bengal Lancer
+55,No,1935,A Midsummer Night's Dream
+56,No,1935,Les Misérables
+57,No,1935,Naughty Marietta
+58,No,1935,Ruggles of Red Gap
+59,No,1935,Top Hat
+60,Yes,1936,The Great Ziegfeld
+61,No,1936,Anthony Adverse
+62,No,1936,Dodsworth
+63,No,1936,Libeled Lady
+64,No,1936,Mr. Deeds Goes to Town
+65,No,1936,Romeo and Juliet
+66,No,1936,San Francisco
+67,No,1936,The Story of Louis Pasteur
+68,No,1936,A Tale of Two Cities
+69,No,1936,Three Smart Girls
+70,Yes,1937,The Life of Emile Zola
+71,No,1937,The Awful Truth
+72,No,1937,Captains Courageous
+73,No,1937,Dead End
+74,No,1937,The Good Earth
+75,No,1937,In Old Chicago
+76,No,1937,Lost Horizon
+77,No,1937,One Hundred Men and a Girl
+78,No,1937,Stage Door
+79,No,1937,A Star Is Born
+80,Yes,1938,You Can't Take It with You
+81,No,1938,The Adventures of Robin Hood
+82,No,1938,Alexander's Ragtime Band
+83,No,1938,Boys Town
+84,No,1938,The Citadel
+85,No,1938,Four Daughters
+86,No,1938,Grand Illusion
+87,No,1938,Jezebel
+88,No,1938,Pygmalion
+89,No,1938,Test Pilot
+90,Yes,1939,Gone with the Wind
+91,No,1939,Dark Victory
+92,No,1939,"Goodbye, Mr. Chips"
+93,No,1939,Love Affair
+94,No,1939,Mr. Smith Goes to Washington
+95,No,1939,Ninotchka
+96,No,1939,Of Mice and Men
+97,No,1939,Stagecoach
+98,No,1939,The Wizard of Oz
+99,No,1939,Wuthering Heights
+100,Yes,1940,Rebecca
+101,No,1940,"All This, and Heaven Too"
+102,No,1940,Foreign Correspondent
+103,No,1940,The Grapes of Wrath
+104,No,1940,The Great Dictator
+105,No,1940,Kitty Foyle
+106,No,1940,The Letter
+107,No,1940,The Long Voyage Home
+108,No,1940,Our Town
+109,No,1940,The Philadelphia Story
+110,Yes,1941,How Green Was My Valley
+111,No,1941,Blossoms in the Dust
+112,No,1941,Citizen Kane
+113,No,1941,Here Comes Mr. Jordan
+114,No,1941,Hold Back the Dawn
+115,No,1941,The Little Foxes
+116,No,1941,The Maltese Falcon
+117,No,1941,One Foot in Heaven
+118,No,1941,Sergeant York
+119,No,1941,Suspicion
+120,Yes,1942,Mrs. Miniver
+121,No,1942,49th Parallel[83]
+122,No,1942,Kings Row
+123,No,1942,The Magnificent Ambersons
+124,No,1942,The Pied Piper
+125,No,1942,The Pride of the Yankees
+126,No,1942,Random Harvest
+127,No,1942,The Talk of the Town
+128,No,1942,Wake Island
+129,No,1942,Yankee Doodle Dandy
+130,Yes,1943,Casablanca
+131,No,1943,For Whom the Bell Tolls
+132,No,1943,Heaven Can Wait
+133,No,1943,The Human Comedy
+134,No,1943,In Which We Serve
+135,No,1943,Madame Curie
+136,No,1943,The More the Merrier
+137,No,1943,The Ox-Bow Incident
+138,No,1943,The Song of Bernadette
+139,No,1943,Watch on the Rhine
+140,Yes,1944,Going My Way
+141,No,1944,Double Indemnity
+142,No,1944,Gaslight
+143,No,1944,Since You Went Away
+144,No,1944,Wilson
+145,Yes,1945,The Lost Weekend
+146,No,1945,Anchors Aweigh
+147,No,1945,The Bells of St. Mary's
+148,No,1945,Mildred Pierce
+149,No,1945,Spellbound
+150,Yes,1946,The Best Years of Our Lives
+151,No,1946,Henry V
+152,No,1946,It's a Wonderful Life
+153,No,1946,The Razor's Edge
+154,No,1946,The Yearling
+155,Yes,1947,Gentleman's Agreement
+156,No,1947,The Bishop's Wife
+157,No,1947,Crossfire
+158,No,1947,Great Expectations
+159,No,1947,Miracle on 34th Street
+160,Yes,1948,Hamlet
+161,No,1948,Johnny Belinda
+162,No,1948,The Red Shoes
+163,No,1948,The Snake Pit
+164,No,1948,The Treasure of the Sierra Madre
+165,Yes,1949,All the King's Men
+166,No,1949,Battleground
+167,No,1949,The Heiress
+168,No,1949,A Letter to Three Wives
+169,No,1949,Twelve O'Clock High
+170,Yes,1950,All About Eve
+171,No,1950,Born Yesterday
+172,No,1950,Father of the Bride
+173,No,1950,King Solomon's Mines
+174,No,1950,Sunset Boulevard
+175,Yes,1951,An American in Paris
+176,No,1951,Decision Before Dawn
+177,No,1951,A Place in the Sun
+178,No,1951,Quo Vadis
+179,No,1951,A Streetcar Named Desire
+180,Yes,1952,The Greatest Show on Earth
+181,No,1952,High Noon
+182,No,1952,Ivanhoe
+183,No,1952,Moulin Rouge
+184,No,1952,The Quiet Man
+185,Yes,1953,From Here to Eternity
+186,No,1953,Julius Caesar
+187,No,1953,The Robe
+188,No,1953,Roman Holiday
+189,No,1953,Shane
+190,Yes,1954,On the Waterfront
+191,No,1954,The Caine Mutiny
+192,No,1954,The Country Girl
+193,No,1954,Seven Brides for Seven Brothers
+194,No,1954,Three Coins in the Fountain
+195,Yes,1955,Marty
+196,No,1955,Love Is a Many-Splendored Thing
+197,No,1955,Mister Roberts
+198,No,1955,Picnic
+199,No,1955,The Rose Tattoo
+200,Yes,1956,Around the World in 80 Days
+201,No,1956,Friendly Persuasion
+202,No,1956,Giant
+203,No,1956,The King and I
+204,No,1956,The Ten Commandments
+205,Yes,1957,The Bridge on the River Kwai
+206,No,1957,12 Angry Men
+207,No,1957,Peyton Place
+208,No,1957,Sayonara
+209,No,1957,Witness for the Prosecution
+210,Yes,1958,Gigi
+211,No,1958,Auntie Mame
+212,No,1958,Cat on a Hot Tin Roof
+213,No,1958,The Defiant Ones
+214,No,1958,Separate Tables
+215,Yes,1959,Ben-Hur
+216,No,1959,Anatomy of a Murder
+217,No,1959,The Diary of Anne Frank
+218,No,1959,The Nun's Story
+219,No,1959,Room at the Top
+220,Yes,1960,The Apartment
+221,No,1960,The Alamo
+222,No,1960,Elmer Gantry
+223,No,1960,Sons and Lovers
+224,No,1960,The Sundowners
+225,Yes,1961,West Side Story
+226,No,1961,Fanny
+227,No,1961,The Guns of Navarone
+228,No,1961,The Hustler
+229,No,1961,Judgment at Nuremberg
+230,Yes,1962,Lawrence of Arabia
+231,No,1962,The Longest Day
+232,No,1962,The Music Man
+233,Yes,1962,Mutiny on the Bounty
+234,No,1962,To Kill a Mockingbird
+235,Yes,1963,Tom Jones
+236,No,1963,America America
+237,No,1963,Cleopatra
+238,No,1963,How the West Was Won
+239,No,1963,Lilies of the Field
+240,Yes,1964,My Fair Lady
+241,No,1964,Becket
+242,No,1964,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+243,No,1964,Mary Poppins
+244,No,1964,Zorba the Greek
+245,Yes,1965,The Sound of Music
+246,No,1965,Darling
+247,No,1965,Doctor Zhivago
+248,No,1965,Ship of Fools
+249,No,1965,A Thousand Clowns
+250,Yes,1966,A Man for All Seasons
+251,No,1966,Alfie
+252,No,1966,"The Russians Are Coming, the Russians Are Coming"
+253,No,1966,The Sand Pebbles
+254,No,1966,Who's Afraid of Virginia Woolf?
+255,Yes,1967,In the Heat of the Night
+256,No,1967,Bonnie and Clyde
+257,No,1967,Doctor Dolittle
+258,No,1967,The Graduate
+259,No,1967,Guess Who's Coming to Dinner
+260,Yes,1968,Oliver!
+261,No,1968,Funny Girl
+262,No,1968,The Lion in Winter
+263,No,1968,"Rachel, Rachel"
+264,No,1968,Romeo and Juliet
+265,Yes,1969,Midnight Cowboy
+266,No,1969,Anne of the Thousand Days
+267,No,1969,Butch Cassidy and the Sundance Kid
+268,No,1969,"Hello, Dolly!"
+269,No,1969,Z
+270,Yes,1970,Patton
+271,No,1970,Airport
+272,No,1970,Five Easy Pieces
+273,No,1970,Love Story
+274,No,1970,M*A*S*H
+275,Yes,1971,The French Connection
+276,No,1971,A Clockwork Orange
+277,No,1971,Fiddler on the Roof
+278,No,1971,The Last Picture Show
+279,No,1971,Nicholas and Alexandra
+280,Yes,1972,The Godfather
+281,No,1972,Cabaret
+282,No,1972,Deliverance
+283,No,1972,The Emigrants
+284,No,1972,Sounder
+285,Yes,1973,The Sting
+286,No,1973,American Graffiti
+287,No,1973,Cries and Whispers
+288,No,1973,The Exorcist
+289,No,1973,A Touch of Class
+290,Yes,1974,The Godfather Part II
+291,No,1974,Chinatown
+292,No,1974,The Conversation
+293,No,1974,Lenny
+294,No,1974,The Towering Inferno
+295,Yes,1975,One Flew Over the Cuckoo's Nest
+296,No,1975,Barry Lyndon
+297,No,1975,Dog Day Afternoon
+298,No,1975,Jaws
+299,No,1975,Nashville
+300,Yes,1976,Rocky
+301,No,1976,All the President's Men
+302,No,1976,Bound for Glory
+303,No,1976,Network
+304,No,1976,Taxi Driver
+305,Yes,1977,Annie Hall
+306,No,1977,The Goodbye Girl
+307,No,1977,Julia
+308,No,1977,Star Wars
+309,No,1977,The Turning Point
+310,Yes,1978,The Deer Hunter
+311,No,1978,Coming Home
+312,No,1978,Heaven Can Wait
+313,No,1978,Midnight Express
+314,No,1978,An Unmarried Woman
+315,Yes,1979,Kramer vs. Kramer
+316,No,1979,All That Jazz
+317,No,1979,Apocalypse Now
+318,No,1979,Breaking Away
+319,No,1979,Norma Rae
+320,Yes,1980,Ordinary People
+321,No,1980,Coal Miner's Daughter
+322,No,1980,The Elephant Man
+323,No,1980,Raging Bull
+324,No,1980,Tess
+325,Yes,1981,Chariots of Fire
+326,No,1981,Atlantic City
+327,No,1981,On Golden Pond
+328,No,1981,Raiders of the Lost Ark
+329,No,1981,Reds
+330,Yes,1982,Gandhi
+331,No,1982,E.T. the Extra-Terrestrial
+332,No,1982,Missing
+333,No,1982,Tootsie
+334,No,1982,The Verdict
+335,Yes,1983,Terms of Endearment
+336,No,1983,The Big Chill
+337,No,1983,The Dresser
+338,No,1983,The Right Stuff
+339,No,1983,Tender Mercies
+340,Yes,1984,Amadeus
+341,No,1984,The Killing Fields
+342,No,1984,A Passage to India
+343,No,1984,Places in the Heart
+344,No,1984,A Soldier's Story
+345,Yes,1985,Out of Africa
+346,No,1985,The Color Purple
+347,No,1985,Kiss of the Spider Woman
+348,No,1985,Prizzi's Honor
+349,No,1985,Witness
+350,Yes,1986,Platoon
+351,No,1986,Children of a Lesser God
+352,No,1986,Hannah and Her Sisters
+353,No,1986,The Mission
+354,No,1986,A Room with a View
+355,Yes,1987,The Last Emperor
+356,No,1987,Broadcast News
+357,No,1987,Fatal Attraction
+358,No,1987,Hope and Glory
+359,No,1987,Moonstruck
+360,Yes,1988,Rain Man
+361,No,1988,The Accidental Tourist
+362,No,1988,Dangerous Liaisons
+363,No,1988,Mississippi Burning
+364,No,1988,Working Girl
+365,Yes,1989,Driving Miss Daisy
+366,No,1989,Born on the Fourth of July
+367,No,1989,Dead Poets Society
+368,No,1989,Field of Dreams
+369,No,1989,My Left Foot
+370,Yes,1990,Dances With Wolves
+371,No,1990,Awakenings
+372,No,1990,Ghost
+373,No,1990,The Godfather Part III
+374,No,1990,Goodfellas
+375,Yes,1991,The Silence of the Lambs
+376,No,1991,Beauty and the Beast
+377,No,1991,Bugsy
+378,No,1991,JFK
+379,No,1991,The Prince of Tides
+380,Yes,1992,Unforgiven
+381,No,1992,The Crying Game
+382,No,1992,A Few Good Men
+383,No,1992,Howards End
+384,No,1992,Scent of a Woman
+385,Yes,1993,Schindler's List
+386,No,1993,The Fugitive
+387,No,1993,In the Name of the Father
+388,No,1993,The Piano
+389,No,1993,The Remains of the Day
+390,Yes,1994,Forrest Gump
+391,No,1994,Four Weddings and a Funeral
+392,No,1994,Pulp Fiction
+393,No,1994,Quiz Show
+394,No,1994,The Shawshank Redemption
+395,Yes,1995,Braveheart
+396,No,1995,Apollo 13
+397,No,1995,Babe
+398,No,1995,Il Postino: The Postman
+399,No,1995,Sense and Sensibility
+400,Yes,1996,The English Patient
+401,No,1996,Fargo
+402,No,1996,Jerry Maguire
+403,No,1996,Secrets & Lies
+404,No,1996,Shine
+405,Yes,1997,Titanic
+406,No,1997,As Good as It Gets
+407,No,1997,The Full Monty
+408,No,1997,Good Will Hunting
+409,No,1997,L.A. Confidential
+410,Yes,1998,Shakespeare in Love
+411,No,1998,Elizabeth
+412,No,1998,Life Is Beautiful
+413,No,1998,Saving Private Ryan
+414,No,1998,The Thin Red Line
+415,Yes,1999,American Beauty
+416,No,1999,The Cider House Rules
+417,No,1999,The Green Mile
+418,No,1999,The Insider
+419,No,1999,The Sixth Sense
+420,Yes,2000,Gladiator
+421,No,2000,Chocolat
+422,No,2000,"Crouching Tiger, Hidden Dragon"
+423,No,2000,Erin Brockovich
+424,No,2000,Traffic
+425,Yes,2001,A Beautiful Mind
+426,No,2001,Gosford Park
+427,No,2001,In the Bedroom
+428,No,2001,The Lord of the Rings: The Fellowship of the Ring
+429,No,2001,Moulin Rouge!
+430,Yes,2002,Chicago
+431,No,2002,Gangs of New York
+432,No,2002,The Hours
+433,No,2002,The Lord of the Rings: The Two Towers
+434,No,2002,The Pianist
+435,Yes,2003,The Lord of the Rings: The Return of the King
+436,No,2003,Lost in Translation
+437,No,2003,Master and Commander: The Far Side of the World
+438,No,2003,Mystic River
+439,No,2003,Seabiscuit
+440,Yes,2004,Million Dollar Baby
+441,No,2004,The Aviator
+442,No,2004,Finding Neverland
+443,No,2004,Ray
+444,No,2004,Sideways
+445,Yes,2005,Crash
+446,No,2005,Brokeback Mountain
+447,No,2005,Capote
+448,No,2005,"Good Night, and Good Luck"
+449,No,2005,Munich
+450,Yes,2006,The Departed
+451,No,2006,Babel
+452,No,2006,Letters from Iwo Jima
+453,No,2006,Little Miss Sunshine
+454,No,2006,The Queen
+455,Yes,2007,No Country for Old Men
+456,No,2007,Atonement
+457,No,2007,Juno
+458,No,2007,Michael Clayton
+459,No,2007,There Will Be Blood
+460,Yes,2008,Slumdog Millionaire
+461,No,2008,The Curious Case of Benjamin Button
+462,No,2008,Frost/Nixon
+463,No,2008,Milk
+464,No,2008,The Reader
+465,Yes,2009,The Hurt Locker
+466,No,2009,Avatar
+467,No,2009,The Blind Side
+468,No,2009,District 9
+469,No,2009,An Education
+470,No,2009,Inglourious Basterds
+471,No,2009,"Precious: Based on the Novel ""Push"" by Sapphire"
+472,No,2009,A Serious Man
+473,No,2009,Up
+474,No,2009,Up in the Air
+475,Yes,2010,The King's Speech
+476,No,2010,Black Swan
+477,No,2010,The Fighter
+478,No,2010,Inception
+479,No,2010,The Kids Are All Right
+480,No,2010,127 Hours
+481,No,2010,The Social Network
+482,No,2010,Toy Story 3
+483,No,2010,True Grit
+484,No,2010,Winter's Bone
+485,Yes,2011,The Artist
+486,No,2011,The Descendants
+487,No,2011,Extremely Loud & Incredibly Close
+488,No,2011,The Help
+489,No,2011,Hugo
+490,No,2011,Midnight in Paris
+491,No,2011,Moneyball
+492,No,2011,The Tree of Life
+493,No,2011,War Horse
+494,Yes,2012,Argo
+495,No,2012,Amour
+496,No,2012,Beasts of the Southern Wild
+497,No,2012,Django Unchained
+498,No,2012,Life of Pi
+499,No,2012,Lincoln
+500,No,2012,Les Misérables
+501,No,2012,Silver Linings Playbook
+502,No,2012,Zero Dark Thirty
+503,Yes,2013,12 Years a Slave
+504,No,2013,American Hustle
+505,No,2013,Captain Phillips
+506,No,2013,Dallas Buyers Club
+507,No,2013,Gravity
+508,No,2013,Her
+509,No,2013,Nebraska
+510,No,2013,Philomena
+511,No,2013,The Wolf of Wall Street
+512,Yes,2014,Birdman or (The Unexpected Virtue of Ignorance)
+513,No,2014,American Sniper
+514,No,2014,Boyhood
+515,No,2014,The Grand Budapest Hotel
+516,No,2014,The Imitation Game
+517,No,2014,Selma
+518,No,2014,The Theory of Everything
+519,No,2014,Whiplash
+520,Yes,2015,Spotlight
+521,No,2015,The Big Short
+522,No,2015,Bridge of Spies
+523,No,2015,Brooklyn
+524,No,2015,Mad Max: Fury Road
+525,No,2015,The Martian
+526,No,2015,The Revenant
+527,No,2015,Room
+528,Yes,2016,Moonlight
+529,No,2016,Arrival
+530,No,2016,Fences
+531,No,2016,Hacksaw Ridge
+532,No,2016,Hell or High Water
+533,No,2016,Hidden Figures
+534,No,2016,La La Land
+535,No,2016,Lion
+536,No,2016,Manchester by the Sea
+537,Yes,2017,The Shape of Water
+538,No,2017,Call Me by Your Name
+539,No,2017,Darkest Hour
+540,No,2017,Dunkirk
+541,No,2017,Get Out
+542,No,2017,Lady Bird
+543,No,2017,Phantom Thread
+544,No,2017,The Post
+545,No,2017,"Three Billboards Outside Ebbing, Missouri"
+546,Yes,2018,Green Book
+547,No,2018,Black Panther
+548,No,2018,BlacKkKlansman
+549,No,2018,Bohemian Rhapsody
+550,No,2018,The Favourite
+551,No,2018,Roma
+552,No,2018,A Star Is Born
+553,No,2018,Vice
+554,Yes,2019,Parasite
+555,No,2019,Ford v Ferrari
+556,No,2019,The Irishman
+557,No,2019,Jojo Rabbit
+558,No,2019,Joker
+559,No,2019,Little Women
+560,No,2019,Marriage Story
+561,No,2019,1917
+562,No,2019,Once Upon a Time in Hollywood
+563,Yes,2020,Nomadland
+564,No,2020,The Father
+565,No,2020,Judas and the Black Messiah
+566,No,2020,Mank
+567,No,2020,Minari
+568,No,2020,Promising Young Woman
+569,No,2020,Sound of Metal
+570,No,2020,The Trial of the Chicago 7
+571,Yes,2021,CODA
+572,No,2021,Belfast
+573,No,2021,Don't Look Up
+574,No,2021,Drive My Car
+575,No,2021,Dune
+576,No,2021,King Richard
+577,No,2021,Licorice Pizza
+578,No,2021,Nightmare Alley
+579,No,2021,The Power of the Dog
+580,Yes,2021,West Side Story
+581,Yes,2022,Everything Everywhere All at Once
+582,Yes,2022,All Quiet on the Western Front
+583,No,2022,Avatar: The Way of Water
+584,No,2022,The Banshees of Inisherin
+585,No,2022,Elvis
+586,No,2022,The Fabelmans
+587,No,2022,Tár
+588,No,2022,Top Gun: Maverick
+589,No,2022,Triangle of Sadness
+590,No,2022,Women Talking
+591,Yes,2023,Oppenheimer
+592,No,2023,American Fiction
+593,No,2023,Anatomy of a Fall
+594,No,2023,Barbie
+595,No,2023,The Holdovers
+596,No,2023,Killers of the Flower Moon
+597,No,2023,Maestro
+598,No,2023,Past Lives
+599,No,2023,Poor Things
+600,No,2023,The Zone of Interest
+601,Yes,2024,Anora
+602,No,2024,The Brutalist
+603,No,2024,A Complete Unknown
+604,No,2024,Conclave
+605,No,2024,Dune: Part Two
+606,No,2024,Emilia Pérez
+607,No,2024,I'm Still Here
+608,No,2024,Nickel Boys
+609,No,2024,The Substance
+610,No,2024,Wicked
