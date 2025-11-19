@@ -11,7 +11,8 @@ In this part, you’ll gather data about popular movies and award winners. The g
         * Winner (Yes/No)  
     * Data cleaning tips:  
         * Ensure that year and film title columns are clean and consistent (no footnotes, parentheses, etc.).
-        * Save the results as best_picture.csv.  
+        * Save the results as best_picture.csv.
+
 2. Gather Movie Data via TMDB API  
     a. Set up the API    
     * Create a free [TMDB account](https://developer.themoviedb.org/docs/getting-started)  
