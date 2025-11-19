@@ -1,0 +1,612 @@
+,Year of Film Release,Film,winner_status
+0,1927/28 ,Wings,True
+1,1927/28 ,7th Heaven,False
+2,1927/28 ,The Racket,False
+4,1928/29  ,The Broadway Melody,True
+5,1928/29  ,Alibi,False
+6,1928/29  ,The Hollywood Revue,False
+7,1928/29  ,In Old Arizona,False
+8,1928/29  ,The Patriot,False
+0,1929/30 ,All Quiet on the Western Front,True
+1,1929/30 ,The Big House,False
+2,1929/30 ,Disraeli,False
+3,1929/30 ,The Divorcee,False
+4,1929/30 ,The Love Parade,False
+6,1930/31 ,Cimarron,True
+7,1930/31 ,East Lynne,False
+8,1930/31 ,The Front Page,False
+9,1930/31 ,Skippy,False
+10,1930/31 ,Trader Horn,False
+11,1931/32 ,Grand Hotel,True
+12,1931/32 ,Arrowsmith,False
+13,1931/32 ,Bad Girl,False
+14,1931/32 ,The Champ,False
+15,1931/32 ,Five Star Final,False
+16,1931/32 ,One Hour with You,False
+17,1931/32 ,Shanghai Express,False
+18,1931/32 ,The Smiling Lieutenant,False
+20,1932/33  ,Cavalcade,True
+21,1932/33  ,42nd Street,False
+22,1932/33  ,A Farewell to Arms,False
+23,1932/33  ,I Am a Fugitive from a Chain Gang,False
+24,1932/33  ,Lady for a Day,False
+25,1932/33  ,Little Women,False
+26,1932/33  ,The Private Life of Henry VIII,False
+27,1932/33  ,She Done Him Wrong,False
+28,1932/33  ,Smilin' Through,False
+29,1932/33  ,State Fair,False
+31,1934  ,It Happened One Night,True
+32,1934  ,The Barretts of Wimpole Street,False
+33,1934  ,Cleopatra,False
+34,1934  ,Flirtation Walk,False
+35,1934  ,The Gay Divorcee,False
+36,1934  ,Here Comes the Navy,False
+37,1934  ,The House of Rothschild,False
+38,1934  ,Imitation of Life,False
+39,1934  ,One Night of Love,False
+40,1934  ,The Thin Man,False
+41,1934  ,Viva Villa!,False
+42,1934  ,The White Parade,False
+44,1935  ,Mutiny on the Bounty,True
+45,1935  ,Alice Adams,False
+46,1935  ,Broadway Melody of 1936,False
+47,1935  ,Captain Blood,False
+48,1935  ,David Copperfield,False
+49,1935  ,The Informer,False
+50,1935  ,The Lives of a Bengal Lancer,False
+51,1935  ,A Midsummer Night's Dream,False
+52,1935  ,Les Misérables,False
+53,1935  ,Naughty Marietta,False
+54,1935  ,Ruggles of Red Gap,False
+55,1935  ,Top Hat,False
+57,1936 ,The Great Ziegfeld,True
+58,1936 ,Anthony Adverse,False
+59,1936 ,Dodsworth,False
+60,1936 ,Libeled Lady,False
+61,1936 ,Mr. Deeds Goes to Town,False
+62,1936 ,Romeo and Juliet,False
+63,1936 ,San Francisco,False
+64,1936 ,The Story of Louis Pasteur,False
+65,1936 ,A Tale of Two Cities,False
+66,1936 ,Three Smart Girls,False
+68,1937 ,The Life of Emile Zola,True
+69,1937 ,The Awful Truth,False
+70,1937 ,Captains Courageous,False
+71,1937 ,Dead End,False
+72,1937 ,The Good Earth,False
+73,1937 ,In Old Chicago,False
+74,1937 ,Lost Horizon,False
+75,1937 ,One Hundred Men and a Girl,False
+76,1937 ,Stage Door,False
+77,1937 ,A Star Is Born,False
+79,1938 ,You Can't Take It with You,True
+80,1938 ,The Adventures of Robin Hood,False
+81,1938 ,Alexander's Ragtime Band,False
+82,1938 ,Boys Town,False
+83,1938 ,The Citadel,False
+84,1938 ,Four Daughters,False
+85,1938 ,Grand Illusion,False
+86,1938 ,Jezebel,False
+87,1938 ,Pygmalion,False
+88,1938 ,Test Pilot,False
+90,1939 ,Gone with the Wind,True
+91,1939 ,Dark Victory,False
+92,1939 ,"Goodbye, Mr. Chips",False
+93,1939 ,Love Affair,False
+94,1939 ,Mr. Smith Goes to Washington,False
+95,1939 ,Ninotchka,False
+96,1939 ,Of Mice and Men,False
+97,1939 ,Stagecoach,False
+98,1939 ,The Wizard of Oz,False
+99,1939 ,Wuthering Heights,False
+0,1940 ,Rebecca,True
+1,1940 ,"All This, and Heaven Too",False
+2,1940 ,Foreign Correspondent,False
+3,1940 ,The Grapes of Wrath,False
+4,1940 ,The Great Dictator,False
+5,1940 ,Kitty Foyle,False
+6,1940 ,The Letter,False
+7,1940 ,The Long Voyage Home,False
+8,1940 ,Our Town,False
+9,1940 ,The Philadelphia Story,False
+11,1941 ,How Green Was My Valley,True
+12,1941 ,Blossoms in the Dust,False
+13,1941 ,Citizen Kane,False
+14,1941 ,Here Comes Mr. Jordan,False
+15,1941 ,Hold Back the Dawn,False
+16,1941 ,The Little Foxes,False
+17,1941 ,The Maltese Falcon,False
+18,1941 ,One Foot in Heaven,False
+19,1941 ,Sergeant York,False
+20,1941 ,Suspicion,False
+22,1942 ,Mrs. Miniver,True
+23,1942 ,49th Parallel[83],False
+24,1942 ,Kings Row,False
+25,1942 ,The Magnificent Ambersons,False
+26,1942 ,The Pied Piper,False
+27,1942 ,The Pride of the Yankees,False
+28,1942 ,Random Harvest,False
+29,1942 ,The Talk of the Town,False
+30,1942 ,Wake Island,False
+31,1942 ,Yankee Doodle Dandy,False
+33,1943 ,Casablanca,True
+34,1943 ,For Whom the Bell Tolls,False
+35,1943 ,Heaven Can Wait,False
+36,1943 ,The Human Comedy,False
+37,1943 ,In Which We Serve,False
+38,1943 ,Madame Curie,False
+39,1943 ,The More the Merrier,False
+40,1943 ,The Ox-Bow Incident,False
+41,1943 ,The Song of Bernadette,False
+42,1943 ,Watch on the Rhine,False
+44,1944 ,Going My Way,True
+45,1944 ,Double Indemnity,False
+46,1944 ,Gaslight,False
+47,1944 ,Since You Went Away,False
+48,1944 ,Wilson,False
+50,1945 ,The Lost Weekend,True
+51,1945 ,Anchors Aweigh,False
+52,1945 ,The Bells of St. Mary's,False
+53,1945 ,Mildred Pierce,False
+54,1945 ,Spellbound,False
+56,1946 ,The Best Years of Our Lives,True
+57,1946 ,Henry V,False
+58,1946 ,It's a Wonderful Life,False
+59,1946 ,The Razor's Edge,False
+60,1946 ,The Yearling,False
+62,1947 ,Gentleman's Agreement,True
+63,1947 ,The Bishop's Wife,False
+64,1947 ,Crossfire,False
+65,1947 ,Great Expectations,False
+66,1947 ,Miracle on 34th Street,False
+68,1948 ,Hamlet,True
+69,1948 ,Johnny Belinda,False
+70,1948 ,The Red Shoes,False
+71,1948 ,The Snake Pit,False
+72,1948 ,The Treasure of the Sierra Madre,False
+74,1949 ,All the King's Men,True
+75,1949 ,Battleground,False
+76,1949 ,The Heiress,False
+77,1949 ,A Letter to Three Wives,False
+78,1949 ,Twelve O'Clock High,False
+0,1950 ,All About Eve,True
+1,1950 ,Born Yesterday,False
+2,1950 ,Father of the Bride,False
+3,1950 ,King Solomon's Mines,False
+4,1950 ,Sunset Boulevard,False
+6,1951 ,An American in Paris,True
+7,1951 ,Decision Before Dawn,False
+8,1951 ,A Place in the Sun,False
+9,1951 ,Quo Vadis,False
+10,1951 ,A Streetcar Named Desire,False
+12,1952 ,The Greatest Show on Earth,True
+13,1952 ,High Noon,False
+14,1952 ,Ivanhoe,False
+15,1952 ,Moulin Rouge,False
+16,1952 ,The Quiet Man,False
+18,1953 ,From Here to Eternity,True
+19,1953 ,Julius Caesar,False
+20,1953 ,The Robe,False
+21,1953 ,Roman Holiday,False
+22,1953 ,Shane,False
+24,1954 ,On the Waterfront,True
+25,1954 ,The Caine Mutiny,False
+26,1954 ,The Country Girl,False
+27,1954 ,Seven Brides for Seven Brothers,False
+28,1954 ,Three Coins in the Fountain,False
+30,1955 ,Marty,True
+31,1955 ,Love Is a Many-Splendored Thing,False
+32,1955 ,Mister Roberts,False
+33,1955 ,Picnic,False
+34,1955 ,The Rose Tattoo,False
+36,1956 ,Around the World in 80 Days,True
+37,1956 ,Friendly Persuasion,False
+38,1956 ,Giant,False
+39,1956 ,The King and I,False
+40,1956 ,The Ten Commandments,False
+42,1957 ,The Bridge on the River Kwai,True
+43,1957 ,12 Angry Men,False
+44,1957 ,Peyton Place,False
+45,1957 ,Sayonara,False
+46,1957 ,Witness for the Prosecution,False
+48,1958 ,Gigi,True
+49,1958 ,Auntie Mame,False
+50,1958 ,Cat on a Hot Tin Roof,False
+51,1958 ,The Defiant Ones,False
+52,1958 ,Separate Tables,False
+54,1959 ,Ben-Hur,True
+55,1959 ,Anatomy of a Murder,False
+56,1959 ,The Diary of Anne Frank,False
+57,1959 ,The Nun's Story,False
+58,1959 ,Room at the Top,False
+0,1960 ,The Apartment,True
+1,1960 ,The Alamo,False
+2,1960 ,Elmer Gantry,False
+3,1960 ,Sons and Lovers,False
+4,1960 ,The Sundowners,False
+6,1961 ,West Side Story,True
+7,1961 ,Fanny,False
+8,1961 ,The Guns of Navarone,False
+9,1961 ,The Hustler,False
+10,1961 ,Judgment at Nuremberg,False
+12,1962 ,Lawrence of Arabia,True
+13,1962 ,The Longest Day,False
+14,1962 ,The Music Man,False
+15,1962 ,Mutiny on the Bounty,True
+16,1962 ,To Kill a Mockingbird,False
+18,1963 ,Tom Jones,True
+19,1963 ,America America,False
+20,1963 ,Cleopatra,False
+21,1963 ,How the West Was Won,False
+22,1963 ,Lilies of the Field,False
+24,1964 ,My Fair Lady,True
+25,1964 ,Becket,False
+26,1964 ,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,False
+27,1964 ,Mary Poppins,False
+28,1964 ,Zorba the Greek,False
+30,1965 ,The Sound of Music,True
+31,1965 ,Darling,False
+32,1965 ,Doctor Zhivago,False
+33,1965 ,Ship of Fools,False
+34,1965 ,A Thousand Clowns,False
+36,1966 ,A Man for All Seasons,True
+37,1966 ,Alfie,False
+38,1966 ,"The Russians Are Coming, the Russians Are Coming",False
+39,1966 ,The Sand Pebbles,False
+40,1966 ,Who's Afraid of Virginia Woolf?,False
+42,1967 ,In the Heat of the Night,True
+43,1967 ,Bonnie and Clyde,False
+44,1967 ,Doctor Dolittle,False
+45,1967 ,The Graduate,False
+46,1967 ,Guess Who's Coming to Dinner,False
+48,1968 ,Oliver!,True
+49,1968 ,Funny Girl,False
+50,1968 ,The Lion in Winter,False
+51,1968 ,"Rachel, Rachel",False
+52,1968 ,Romeo and Juliet,False
+54,1969 ,Midnight Cowboy,True
+55,1969 ,Anne of the Thousand Days,False
+56,1969 ,Butch Cassidy and the Sundance Kid,False
+57,1969 ,"Hello, Dolly!",False
+58,1969 ,Z,False
+0,1970 ,Patton,True
+1,1970 ,Airport,False
+2,1970 ,Five Easy Pieces,False
+3,1970 ,Love Story,False
+4,1970 ,M*A*S*H,False
+6,1971 ,The French Connection,True
+7,1971 ,A Clockwork Orange,False
+8,1971 ,Fiddler on the Roof,False
+9,1971 ,The Last Picture Show,False
+10,1971 ,Nicholas and Alexandra,False
+12,1972 ,The Godfather,True
+13,1972 ,Cabaret,False
+14,1972 ,Deliverance,False
+15,1972 ,The Emigrants,False
+16,1972 ,Sounder,False
+18,1973 ,The Sting,True
+19,1973 ,American Graffiti,False
+20,1973 ,Cries and Whispers,False
+21,1973 ,The Exorcist,False
+22,1973 ,A Touch of Class,False
+24,1974 ,The Godfather Part II,True
+25,1974 ,Chinatown,False
+26,1974 ,The Conversation,False
+27,1974 ,Lenny,False
+28,1974 ,The Towering Inferno,False
+30,1975 ,One Flew Over the Cuckoo's Nest,True
+31,1975 ,Barry Lyndon,False
+32,1975 ,Dog Day Afternoon,False
+33,1975 ,Jaws,False
+34,1975 ,Nashville,False
+36,1976 ,Rocky,True
+37,1976 ,All the President's Men,False
+38,1976 ,Bound for Glory,False
+39,1976 ,Network,False
+40,1976 ,Taxi Driver,False
+42,1977 ,Annie Hall,True
+43,1977 ,The Goodbye Girl,False
+44,1977 ,Julia,False
+45,1977 ,Star Wars,False
+46,1977 ,The Turning Point,False
+48,1978 ,The Deer Hunter,True
+49,1978 ,Coming Home,False
+50,1978 ,Heaven Can Wait,False
+51,1978 ,Midnight Express,False
+52,1978 ,An Unmarried Woman,False
+54,1979 ,Kramer vs. Kramer,True
+55,1979 ,All That Jazz,False
+56,1979 ,Apocalypse Now,False
+57,1979 ,Breaking Away,False
+58,1979 ,Norma Rae,False
+0,1980 ,Ordinary People,True
+1,1980 ,Coal Miner's Daughter,False
+2,1980 ,The Elephant Man,False
+3,1980 ,Raging Bull,False
+4,1980 ,Tess,False
+6,1981 ,Chariots of Fire,True
+7,1981 ,Atlantic City,False
+8,1981 ,On Golden Pond,False
+9,1981 ,Raiders of the Lost Ark,False
+10,1981 ,Reds,False
+12,1982 ,Gandhi,True
+13,1982 ,E.T. the Extra-Terrestrial,False
+14,1982 ,Missing,False
+15,1982 ,Tootsie,False
+16,1982 ,The Verdict,False
+18,1983 ,Terms of Endearment,True
+19,1983 ,The Big Chill,False
+20,1983 ,The Dresser,False
+21,1983 ,The Right Stuff,False
+22,1983 ,Tender Mercies,False
+24,1984 ,Amadeus,True
+25,1984 ,The Killing Fields,False
+26,1984 ,A Passage to India,False
+27,1984 ,Places in the Heart,False
+28,1984 ,A Soldier's Story,False
+30,1985 ,Out of Africa,True
+31,1985 ,The Color Purple,False
+32,1985 ,Kiss of the Spider Woman,False
+33,1985 ,Prizzi's Honor,False
+34,1985 ,Witness,False
+36,1986 ,Platoon,True
+37,1986 ,Children of a Lesser God,False
+38,1986 ,Hannah and Her Sisters,False
+39,1986 ,The Mission,False
+40,1986 ,A Room with a View,False
+42,1987 ,The Last Emperor,True
+43,1987 ,Broadcast News,False
+44,1987 ,Fatal Attraction,False
+45,1987 ,Hope and Glory,False
+46,1987 ,Moonstruck,False
+48,1988 ,Rain Man,True
+49,1988 ,The Accidental Tourist,False
+50,1988 ,Dangerous Liaisons,False
+51,1988 ,Mississippi Burning,False
+52,1988 ,Working Girl,False
+54,1989 ,Driving Miss Daisy,True
+55,1989 ,Born on the Fourth of July,False
+56,1989 ,Dead Poets Society,False
+57,1989 ,Field of Dreams,False
+58,1989 ,My Left Foot,False
+0,1990 ,Dances With Wolves,True
+1,1990 ,Awakenings,False
+2,1990 ,Ghost,False
+3,1990 ,The Godfather Part III,False
+4,1990 ,Goodfellas,False
+6,1991 ,The Silence of the Lambs,True
+7,1991 ,Beauty and the Beast,False
+8,1991 ,Bugsy,False
+9,1991 ,JFK,False
+10,1991 ,The Prince of Tides,False
+12,1992 ,Unforgiven,True
+13,1992 ,The Crying Game,False
+14,1992 ,A Few Good Men,False
+15,1992 ,Howards End,False
+16,1992 ,Scent of a Woman,False
+18,1993 ,Schindler's List,True
+19,1993 ,The Fugitive,False
+20,1993 ,In the Name of the Father,False
+21,1993 ,The Piano,False
+22,1993 ,The Remains of the Day,False
+24,1994 ,Forrest Gump,True
+25,1994 ,Four Weddings and a Funeral,False
+26,1994 ,Pulp Fiction,False
+27,1994 ,Quiz Show,False
+28,1994 ,The Shawshank Redemption,False
+30,1995 ,Braveheart,True
+31,1995 ,Apollo 13,False
+32,1995 ,Babe,False
+33,1995 ,Il Postino: The Postman,False
+34,1995 ,Sense and Sensibility,False
+36,1996 ,The English Patient,True
+37,1996 ,Fargo,False
+38,1996 ,Jerry Maguire,False
+39,1996 ,Secrets & Lies,False
+40,1996 ,Shine,False
+42,1997 ,Titanic,True
+43,1997 ,As Good as It Gets,False
+44,1997 ,The Full Monty,False
+45,1997 ,Good Will Hunting,False
+46,1997 ,L.A. Confidential,False
+48,1998 ,Shakespeare in Love,True
+49,1998 ,Elizabeth,False
+50,1998 ,Life Is Beautiful,False
+51,1998 ,Saving Private Ryan,False
+52,1998 ,The Thin Red Line,False
+54,1999 ,American Beauty,True
+55,1999 ,The Cider House Rules,False
+56,1999 ,The Green Mile,False
+57,1999 ,The Insider,False
+58,1999 ,The Sixth Sense,False
+0,2000 ,Gladiator,True
+1,2000 ,Chocolat,False
+2,2000 ,"Crouching Tiger, Hidden Dragon",False
+3,2000 ,Erin Brockovich,False
+4,2000 ,Traffic,False
+6,2001 ,A Beautiful Mind,True
+7,2001 ,Gosford Park,False
+8,2001 ,In the Bedroom,False
+9,2001 ,The Lord of the Rings: The Fellowship of the Ring,False
+10,2001 ,Moulin Rouge!,False
+12,2002 ,Chicago,True
+13,2002 ,Gangs of New York,False
+14,2002 ,The Hours,False
+15,2002 ,The Lord of the Rings: The Two Towers,False
+16,2002 ,The Pianist,False
+18,2003 ,The Lord of the Rings: The Return of the King,True
+19,2003 ,Lost in Translation,False
+20,2003 ,Master and Commander: The Far Side of the World,False
+21,2003 ,Mystic River,False
+22,2003 ,Seabiscuit,False
+24,2004 ,Million Dollar Baby,True
+25,2004 ,The Aviator,False
+26,2004 ,Finding Neverland,False
+27,2004 ,Ray,False
+28,2004 ,Sideways,False
+30,2005 ,Crash,True
+31,2005 ,Brokeback Mountain,False
+32,2005 ,Capote,False
+33,2005 ,"Good Night, and Good Luck",False
+34,2005 ,Munich,False
+36,2006 ,The Departed,True
+37,2006 ,Babel,False
+38,2006 ,Letters from Iwo Jima,False
+39,2006 ,Little Miss Sunshine,False
+40,2006 ,The Queen,False
+42,2007 ,No Country for Old Men,True
+43,2007 ,Atonement,False
+44,2007 ,Juno,False
+45,2007 ,Michael Clayton,False
+46,2007 ,There Will Be Blood,False
+48,2008 ,Slumdog Millionaire,True
+49,2008 ,The Curious Case of Benjamin Button,False
+50,2008 ,Frost/Nixon,False
+51,2008 ,Milk,False
+52,2008 ,The Reader,False
+54,2009 ,The Hurt Locker,True
+55,2009 ,Avatar,False
+56,2009 ,The Blind Side,False
+57,2009 ,District 9,False
+58,2009 ,An Education,False
+59,2009 ,Inglourious Basterds,False
+60,2009 ,"Precious: Based on the Novel ""Push"" by Sapphire",False
+61,2009 ,A Serious Man,False
+62,2009 ,Up,False
+63,2009 ,Up in the Air,False
+0,2010 ,The King's Speech,True
+1,2010 ,Black Swan,False
+2,2010 ,The Fighter,False
+3,2010 ,Inception,False
+4,2010 ,The Kids Are All Right,False
+5,2010 ,127 Hours,False
+6,2010 ,The Social Network,False
+7,2010 ,Toy Story 3,False
+8,2010 ,True Grit,False
+9,2010 ,Winter's Bone,False
+11,2011 ,The Artist,True
+12,2011 ,The Descendants,False
+13,2011 ,Extremely Loud & Incredibly Close,False
+14,2011 ,The Help,False
+15,2011 ,Hugo,False
+16,2011 ,Midnight in Paris,False
+17,2011 ,Moneyball,False
+18,2011 ,The Tree of Life,False
+19,2011 ,War Horse,False
+21,2012 ,Argo,True
+22,2012 ,Amour,False
+23,2012 ,Beasts of the Southern Wild,False
+24,2012 ,Django Unchained,False
+25,2012 ,Life of Pi,False
+26,2012 ,Lincoln,False
+27,2012 ,Les Misérables,False
+28,2012 ,Silver Linings Playbook,False
+29,2012 ,Zero Dark Thirty,False
+31,2013 ,12 Years a Slave,True
+32,2013 ,American Hustle,False
+33,2013 ,Captain Phillips,False
+34,2013 ,Dallas Buyers Club,False
+35,2013 ,Gravity,False
+36,2013 ,Her,False
+37,2013 ,Nebraska,False
+38,2013 ,Philomena,False
+39,2013 ,The Wolf of Wall Street,False
+41,2014 ,Birdman or (The Unexpected Virtue of Ignorance),True
+42,2014 ,American Sniper,False
+43,2014 ,Boyhood,False
+44,2014 ,The Grand Budapest Hotel,False
+45,2014 ,The Imitation Game,False
+46,2014 ,Selma,False
+47,2014 ,The Theory of Everything,False
+48,2014 ,Whiplash,False
+50,2015 ,Spotlight,True
+51,2015 ,The Big Short,False
+52,2015 ,Bridge of Spies,False
+53,2015 ,Brooklyn,False
+54,2015 ,Mad Max: Fury Road,False
+55,2015 ,The Martian,False
+56,2015 ,The Revenant,False
+57,2015 ,Room,False
+59,2016 ,Moonlight,True
+60,2016 ,Arrival,False
+61,2016 ,Fences,False
+62,2016 ,Hacksaw Ridge,False
+63,2016 ,Hell or High Water,False
+64,2016 ,Hidden Figures,False
+65,2016 ,La La Land,False
+66,2016 ,Lion,False
+67,2016 ,Manchester by the Sea,False
+69,2017 ,The Shape of Water,True
+70,2017 ,Call Me by Your Name,False
+71,2017 ,Darkest Hour,False
+72,2017 ,Dunkirk,False
+73,2017 ,Get Out,False
+74,2017 ,Lady Bird,False
+75,2017 ,Phantom Thread,False
+76,2017 ,The Post,False
+77,2017 ,"Three Billboards Outside Ebbing, Missouri",False
+79,2018 ,Green Book,True
+80,2018 ,Black Panther,False
+81,2018 ,BlacKkKlansman,False
+82,2018 ,Bohemian Rhapsody,False
+83,2018 ,The Favourite,False
+84,2018 ,Roma,False
+85,2018 ,A Star Is Born,False
+86,2018 ,Vice,False
+87,2019 ,Parasite,True
+88,2019 ,Ford v Ferrari,False
+89,2019 ,The Irishman,False
+90,2019 ,Jojo Rabbit,False
+91,2019 ,Joker,False
+92,2019 ,Little Women,False
+93,2019 ,Marriage Story,False
+94,2019 ,1917,False
+95,2019 ,Once Upon a Time in Hollywood,False
+0,2020 ,Nomadland,True
+1,2020 ,The Father,False
+2,2020 ,Judas and the Black Messiah,False
+3,2020 ,Mank,False
+4,2020 ,Minari,False
+5,2020 ,Promising Young Woman,False
+6,2020 ,Sound of Metal,False
+7,2020 ,The Trial of the Chicago 7,False
+8,2021 ,CODA,True
+9,2021 ,Belfast,False
+10,2021 ,Don't Look Up,False
+11,2021 ,Drive My Car,False
+12,2021 ,Dune,False
+13,2021 ,King Richard,False
+14,2021 ,Licorice Pizza,False
+15,2021 ,Nightmare Alley,False
+16,2021 ,The Power of the Dog,False
+17,2021 ,West Side Story,True
+18,2022 ,Everything Everywhere All at Once,True
+19,2022 ,All Quiet on the Western Front,True
+20,2022 ,Avatar: The Way of Water,False
+21,2022 ,The Banshees of Inisherin,False
+22,2022 ,Elvis,False
+23,2022 ,The Fabelmans,False
+24,2022 ,Tár,False
+25,2022 ,Top Gun: Maverick,False
+26,2022 ,Triangle of Sadness,False
+27,2022 ,Women Talking,False
+28,2023 ,Oppenheimer,True
+29,2023 ,American Fiction,False
+30,2023 ,Anatomy of a Fall,False
+31,2023 ,Barbie,False
+32,2023 ,The Holdovers,False
+33,2023 ,Killers of the Flower Moon,False
+34,2023 ,Maestro,False
+35,2023 ,Past Lives,False
+36,2023 ,Poor Things,False
+37,2023 ,The Zone of Interest,False
+38,2024 ,Anora,True
+39,2024 ,The Brutalist,False
+40,2024 ,A Complete Unknown,False
+41,2024 ,Conclave,False
+42,2024 ,Dune: Part Two,False
+43,2024 ,Emilia Pérez,False
+44,2024 ,I'm Still Here,False
+45,2024 ,Nickel Boys,False
+46,2024 ,The Substance,False
+47,2024 ,Wicked,False
